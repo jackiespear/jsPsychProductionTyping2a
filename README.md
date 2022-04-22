@@ -1,4 +1,4 @@
-# jsPsych Production Effect by Typing 1e
+# jsPsych Production Effect by Typing 2a
 A jsPsych recognition experiment examining the production effect by typing.
 
 ## Purpose
